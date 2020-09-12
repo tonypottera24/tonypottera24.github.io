@@ -11,8 +11,9 @@ layout: home
 <!--![landing page](/img/landing_page.png)-->
 
 
-* GRE Calculator
-* Nice Speech
-* TLC Scanner
+## My Apps
+* [GRE Calculator](/gre_calculator/)
+* [Nice Speech](/nice_speech/)
+* [TLC Scanner](/tlc_scanner/)
 
 Please feel free to contact us if you have any ideas to make this app better!
