@@ -1,1 +1,41 @@
-theme: jekyll-theme-cayman
+title: Po-Chu Hsu
+author:
+  name: Po-Chu Hsu
+  email: tonypottera@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+    This is my personal website
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://tonypottera24.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+google_analytics: G-JRSQK37E3S
+google_ads: ca-pub-6704702253234732
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+
+minina:
+  social:
+    facebook: GRE-Calculator-107548807601599
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
